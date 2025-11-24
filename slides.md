@@ -1,7 +1,23 @@
 ---
 marp: true
 paginate: true
+theme: custom-theme
+style: |
+  section {
+    font-family: "Arial", sans-serif;
+  }
+  h1, h2 {
+    color: #0b6cf6;
+  }
+  .footer {
+    font-size: 12px;
+    color: gray;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+  }
 ---
+
 
 # Product Documentation — WidgetFlow
 
