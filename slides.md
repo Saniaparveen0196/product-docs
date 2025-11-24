@@ -3,7 +3,7 @@ marp: true
 theme: custom-theme
 paginate: true
 ---
-
+---
 
 # Product Documentation — WidgetFlow
 
@@ -46,5 +46,5 @@ Full sorting lower bound:
 $$ T_\text{sort}(n) = O(n \log n) $$
 
 ---
-<img width="1900" height="978" alt="image" src="https://github.com/user-attachments/assets/50903306-afc0-45e5-beca-b627464b8ea7" /><img width="1900" height="978" alt="image" src="https://github.com/user-attachments/assets/0b44b692-23c3-431a-9092-bfd4104d49bb" />
+
 
